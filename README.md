@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Author
+
+Abdullah Al Fadhly
+github: www.github.com/abewd
+deployment link: https://abewd.github.io/resonateQ2/
+contact: hi@abewd.com
+
+## How to deploy
+
+> open app.js in an integrated terminal
+> in a gitbash prompt `npm i`
+> then type `npm start`
+> a new web browser will open to display the page
